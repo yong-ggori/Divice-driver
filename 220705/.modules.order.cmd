@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/udoo_linux_bsp/drivers/220705/modules.order := {   echo /home/ubuntu/udoo_linux_bsp/drivers/220705/hello.ko; :; } | awk '!x[$$0]++' - > /home/ubuntu/udoo_linux_bsp/drivers/220705/modules.order

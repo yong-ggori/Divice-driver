@@ -1,0 +1,1 @@
+cmd_/home/ubuntu/udoo_linux_bsp/drivers/220705/arm/hello.ko := arm-linux-gnueabihf-ld -EL -r  -T /home/ubuntu/udoo_linux_bsp/kernel/3.14.1/scripts/module-common.lds --build-id  -o /home/ubuntu/udoo_linux_bsp/drivers/220705/arm/hello.ko /home/ubuntu/udoo_linux_bsp/drivers/220705/arm/hello.o /home/ubuntu/udoo_linux_bsp/drivers/220705/arm/hello.mod.o
